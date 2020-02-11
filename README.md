@@ -1,0 +1,2 @@
+# Cat_DetectionUARedirect
+根据浏览器的UA来进行不同重定向
