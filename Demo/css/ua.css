@@ -1,0 +1,46 @@
+* {
+-webkit-touch-callout:none;
+-webkit-user-select:none;
+-khtml-user-select:none;
+-moz-user-select:none;
+-ms-user-select:none;
+user-select:none;
+}
+body{
+		background-color:#444;
+		font-size:14px;
+	}
+		
+	.div_title {
+		font-size:20px;
+		color:#eee;
+		text-align:center;
+		padding-top:5px;
+		padding-left:50px;
+		font-weight:normal;
+	}
+	
+	.div_text {
+		font-size:20px;
+		color:#eee;
+		text-align:center;
+		padding-top:3cm;
+		font-weight:normal;
+	}
+	
+	#pic p {
+		text-align: center;
+		margin-top: 5%;
+		padding:0 5%;
+		height: 600px;
+		max-width: 600px;
+		font-size: 40px;
+	}
+	img{
+		max-width: 100%;
+		height: auto;
+	}
+
+footer{
+	    font-size:2px;		
+      }
